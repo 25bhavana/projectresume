@@ -1,2 +1,2 @@
 # projectresume
-## This are all my projects that i have done and also added in resume 
+## This are all my projects that I have done in master's
